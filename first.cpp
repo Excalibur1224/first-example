@@ -1,9 +1,14 @@
-//Kevin Buffardi
+//Brayden Falla
 #include <iostream>
 
-int main()
-{
-  std::cout<<"Hi."<<std::endl;
+using std::cout;
+using std::endl;
 
-  return 0;
+int main() 
+
+{
+  cout<<"Hi."<<endl;
+
+        return 0;
+
 }
